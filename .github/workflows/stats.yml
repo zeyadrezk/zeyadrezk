@@ -1,0 +1,42 @@
+name: Generate Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Generate Snake
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: zeyadrezk
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      # Generate Profile Summary Cards
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: zeyadrezk
+          BRANCH_NAME: main
+          FILENAME: summary
+
+      # Commit and push
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          mkdir -p stats
+          mv dist/* stats/ 2>/dev/null || true
+          mv profile-summary-card-output/* stats/ 2>/dev/null || true
+          git add stats/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update stats"
+          git push

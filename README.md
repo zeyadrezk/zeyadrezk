@@ -31,17 +31,15 @@ I build scalable SaaS systems, microservices, and backend APIs. 4+ years of expe
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zeyadrezk&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+![Profile Summary](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/stats/0-profile-details.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadrezk&layout=compact&theme=default&hide_border=true)
+![Languages](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/stats/1-repos-per-language.svg)
+![Most Commit Language](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/stats/2-most-commit-language.svg)
 
-![Streak](https://streak-stats.demolab.com?user=zeyadrezk&theme=default&hide_border=true)
+![Stats](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/stats/3-stats.svg)
+![Productive Time](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/stats/4-productive-time.svg)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeyadrezk&theme=minimal&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=zeyadrezk&theme=flat&no-frame=true&margin-w=10)
-
-![Snake](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/output/github-snake.svg)
+![Snake](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/stats/snake.svg)
 
 ## Work
 
