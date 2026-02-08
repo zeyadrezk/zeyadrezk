@@ -29,17 +29,11 @@ I build scalable SaaS systems, microservices, and backend APIs. 4+ years of expe
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-## GitHub Stats
+![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzeyadrezk)
+![Followers](https://img.shields.io/github/followers/zeyadrezk?style=flat&label=Followers)
+![Stars](https://img.shields.io/github/stars/zeyadrezk?style=flat&label=Stars)
 
 ![Profile Summary](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/profile-summary-card-output/default/0-profile-details.svg)
-
-![Languages](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/profile-summary-card-output/default/1-repos-per-language.svg)
-![Most Commit Language](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/profile-summary-card-output/default/2-most-commit-language.svg)
-
-![Stats](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/profile-summary-card-output/default/3-stats.svg)
-![Productive Time](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/profile-summary-card-output/default/4-productive-time.svg)
-
-![Snake](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/stats/snake.svg)
 
 ## Work
 
