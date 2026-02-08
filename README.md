@@ -29,6 +29,12 @@ I build scalable SaaS systems, microservices, and backend APIs. 4+ years of expe
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
+## GitHub Activity
+
+![Zeyad's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/zeyadrezk?cardType=level&theme=default)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeyadrezk&theme=minimal&hide_border=true)
+
 ## Work
 
 ### Enterprise SaaS Platform
