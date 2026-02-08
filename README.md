@@ -29,11 +29,19 @@ I build scalable SaaS systems, microservices, and backend APIs. 4+ years of expe
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-## GitHub Activity
+## GitHub Stats
 
-![Zeyad's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/zeyadrezk?cardType=level&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=zeyadrezk&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeyadrezk&theme=minimal&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadrezk&layout=compact&theme=default&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=zeyadrezk&theme=default&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeyadrezk&theme=minimal&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=zeyadrezk&theme=flat&no-frame=true&margin-w=10)
+
+![Snake](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/output/github-snake.svg)
 
 ## Work
 
