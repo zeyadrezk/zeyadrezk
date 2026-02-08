@@ -12,6 +12,14 @@ I build scalable SaaS systems, microservices, and backend APIs. 4+ years of expe
 **Frontend:** Filament, Livewire, Tailwind CSS, Alpine.js
 **Patterns:** Multi-Tenant Architecture, Factory, Strategy, Repository, SOLID
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeyadrezk&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadrezk&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeyadrezk&theme=default&hide_border=true)
+
 ## Work
 
 ### Enterprise SaaS Platform
