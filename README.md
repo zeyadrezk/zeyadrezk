@@ -4,7 +4,14 @@ Senior Backend Engineer based in Egypt.
 
 I build scalable SaaS systems, microservices, and backend APIs. +3 years of experience working with Laravel, AWS, and distributed architectures.
 
-## What I Work With
+## Experience
+
+- **Bitech** — Senior Backend Developer (2025–Present)
+- **Taqnyoon** — Backend Developer (2024–2025)
+- **Athr** — Backend Developer (2024–2025)
+- **Active4web** — Backend Developer (2023–2024)
+
+## Skills
 
 - **Backend:** PHP, Laravel, REST APIs, GraphQL, Microservices
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
@@ -32,18 +39,16 @@ I build scalable SaaS systems, microservices, and backend APIs. +3 years of expe
 ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzeyadrezk)
 ![Followers](https://img.shields.io/github/followers/zeyadrezk?style=flat&label=Followers)
 ![Stars](https://img.shields.io/github/stars/zeyadrezk?style=flat&label=Stars)
-
 ![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-blue)
 
 ![Profile Summary](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/profile-summary-card-output/default/0-profile-details.svg)
 
-## Work
+## Projects
 
 ### Enterprise SaaS Platform
 
 Multi-tenant ERP system with microservices architecture, serving web dashboards and mobile applications.
 
-**What I built:**
 - Multi-tenant system with domain-based resolution and isolated databases per tenant
 - RBAC microservice handling permissions across all services via HTTP
 - RESTful APIs for mobile apps (iOS/Android) and web dashboards
@@ -58,6 +63,7 @@ Multi-tenant ERP system with microservices architecture, serving web dashboards 
 ### CRM Systems
 
 Built multiple CRM solutions using Laravel and Filament:
+
 - Healthcare CRM for patient records, appointments, and medical history
 - Real Estate CRM for property listings, sales pipeline, and client management
 - Delivery platform with multi-dashboard system and QR-based ordering
@@ -69,10 +75,10 @@ Built multiple CRM solutions using Laravel and Filament:
 ### Mobile APIs
 
 Backend systems for mobile applications:
+
 - Mini-games platform with 6 games, daily rewards, points and leaderboards
 - Fitness challenge app with walk tracking, challenges, and virtual farm shop
 - E-commerce apps with order management, payments, and push notifications
-- Multiple other mobile backends
 
 **Stack:** Laravel, REST APIs, MySQL, Redis, Push Notifications, Firebase
 
@@ -88,9 +94,7 @@ Backend systems for mobile applications:
 | MajaliApp | Family management portal |
 | Seraj Academy | Online learning platform |
 
----
-
-### Open Source
+## Open Source
 
 **Architecture & Patterns**
 - [Payment Management](https://github.com/zeyadrezk/Payment-Management) — Factory and Strategy pattern implementation
@@ -99,7 +103,7 @@ Backend systems for mobile applications:
 
 **DevOps & Infrastructure**
 - [Docker Starter](https://github.com/zeyadrezk/laravel-docker-starter) — PHP 8.4, Nginx, MySQL, Redis starter kit
-- [Sail Starter](https://github.com/zeyadrezk/laravel-sail-starter) — Docker-powered dev environment with commands reference
+- [Sail Starter](https://github.com/zeyadrezk/laravel-sail-starter) — Docker-powered dev environment
 - [AWS RDS Template](https://github.com/zeyadrezk/aws-rds-laravel-template) — Laravel AWS RDS configuration
 
 **Features & Integrations**
@@ -107,22 +111,15 @@ Backend systems for mobile applications:
 - [ChatApp](https://github.com/zeyadrezk/ChatApp-laravel) — Real-time chat using Laravel Reverb
 - [Invoices](https://github.com/zeyadrezk/invoices-laravel) — Invoice management system
 
-## Experience
-
-- **Bitech** — Senior Backend Developer (2025–Present)
-- **Taqnyoon** — Backend Developer (2024–2025)
-- **Athr** — Backend Developer (2024–2025)
-- **Active4web** — Backend Developer (2023–2024)
-
 ## Education
 
 BSc Computer Science — Mansoura University (2017–2021)
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/zeyadrezk](https://linkedin.com/in/zeyadrezk)
-- Email: Zeyad0rezk@gmail.com
-- WhatsApp: +201096040976
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zeyadrezk-blue?style=flat&logo=linkedin)](https://linkedin.com/in/zeyadrezk)
+[![Email](https://img.shields.io/badge/Email-Zeyad0rezk@gmail.com-red?style=flat&logo=gmail)](mailto:Zeyad0rezk@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+201096040976-green?style=flat&logo=whatsapp)](https://wa.me/201096040976)
 
 ---
 
