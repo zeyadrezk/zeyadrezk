@@ -6,11 +6,11 @@ I build scalable SaaS systems, microservices, and backend APIs. 4+ years of expe
 
 ## What I Work With
 
-**Backend:** PHP, Laravel, REST APIs, GraphQL, Microservices
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis
-**Cloud & DevOps:** AWS (RDS, S3, Route53, CloudFront), Docker, GitHub Actions
-**Frontend:** Filament, Livewire, Tailwind CSS, Alpine.js
-**Patterns:** Multi-Tenant Architecture, Factory, Strategy, Repository, SOLID
+- **Backend:** PHP, Laravel, REST APIs, GraphQL, Microservices
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Cloud & DevOps:** AWS (RDS, S3, Route53, CloudFront), Docker, GitHub Actions
+- **Frontend:** Filament, Livewire, Tailwind CSS, Alpine.js
+- **Patterns:** Multi-Tenant Architecture, Factory, Strategy, Repository, SOLID
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -33,6 +33,8 @@ I build scalable SaaS systems, microservices, and backend APIs. 4+ years of expe
 ![Followers](https://img.shields.io/github/followers/zeyadrezk?style=flat&label=Followers)
 ![Stars](https://img.shields.io/github/stars/zeyadrezk?style=flat&label=Stars)
 
+![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-blue)
+
 ![Profile Summary](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/profile-summary-card-output/default/0-profile-details.svg)
 
 ## Work
@@ -45,11 +47,9 @@ Multi-tenant ERP system with microservices architecture, serving web dashboards 
 - Multi-tenant system with domain-based resolution and isolated databases per tenant
 - RBAC microservice handling permissions across all services via HTTP
 - RESTful APIs for mobile apps (iOS/Android) and web dashboards
-- Queue-based async processing with Laravel Horizon
+- Queue-based async processing with Laravel
 - GIS integration via APIs for geospatial data
-- HR management module with employee lifecycle workflows
 - Incident management and field planning system
-- Custom fields engine for dynamic form generation
 
 **Stack:** Laravel, PostgreSQL, Redis, Docker, AWS
 
@@ -109,10 +109,10 @@ Backend systems for mobile applications:
 
 ## Experience
 
-**Bitech** — Senior Backend Developer (2025–Present)
-**Taqnyoon** — Backend Developer (2024–2025)
-**Athr** — Backend Developer (2024–2025)
-**Active4web** — Backend Developer (2023–2024)
+- **Bitech** — Senior Backend Developer (2025–Present)
+- **Taqnyoon** — Backend Developer (2024–2025)
+- **Athr** — Backend Developer (2024–2025)
+- **Active4web** — Backend Developer (2023–2024)
 
 ## Education
 
