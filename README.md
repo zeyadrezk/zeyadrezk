@@ -2,7 +2,7 @@
 
 Senior Backend Engineer based in Egypt.
 
-I build scalable SaaS systems, microservices, and backend APIs. 4+ years of experience working with Laravel, AWS, and distributed architectures.
+I build scalable SaaS systems, microservices, and backend APIs. +3 years of experience working with Laravel, AWS, and distributed architectures.
 
 ## What I Work With
 
@@ -33,7 +33,7 @@ I build scalable SaaS systems, microservices, and backend APIs. 4+ years of expe
 ![Followers](https://img.shields.io/github/followers/zeyadrezk?style=flat&label=Followers)
 ![Stars](https://img.shields.io/github/stars/zeyadrezk?style=flat&label=Stars)
 
-![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-blue)
+![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-blue)
 
 ![Profile Summary](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/profile-summary-card-output/default/0-profile-details.svg)
 
