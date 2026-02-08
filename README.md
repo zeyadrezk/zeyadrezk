@@ -1,62 +1,106 @@
-<h1 align="left">Hi 👋! My name  is Zeyad Rezk <br> I'm a Backend Developer, from Egypt</h1>
+# Zeyad Rezk
 
-###
+Senior Backend Engineer based in Egypt.
 
-<div align="center">
-</div>
+I build scalable SaaS systems, microservices, and backend APIs. 4+ years of experience working with Laravel, AWS, and distributed architectures.
 
-###
+## What I Work With
 
-<img align="right" height="150" src="https://images.unsplash.com/photo-1629904853893-c2c8981a1dc5?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  />
+**Backend:** PHP, Laravel, REST APIs, GraphQL, Microservices
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis
+**Cloud & DevOps:** AWS (RDS, S3, Route53, CloudFront), Docker, GitHub Actions
+**Frontend:** Filament, Livewire, Tailwind CSS, Alpine.js
+**Patterns:** Multi-Tenant Architecture, Factory, Strategy, Repository, SOLID
 
-###
+## Work
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=alpinejs" height="30" alt="alpinelinux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+### Enterprise SaaS Platform
 
-###
+Multi-tenant ERP system with microservices architecture, serving web dashboards and mobile applications.
 
-<div align="left">
-  <a href="mailto:Zeyad0rezk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/+201096040976" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/zeyadrezk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+**What I built:**
+- Multi-tenant system with domain-based resolution and isolated databases per tenant
+- RBAC microservice handling permissions across all services via HTTP
+- RESTful APIs for mobile apps (iOS/Android) and web dashboards
+- Queue-based async processing with Laravel Horizon
+- GIS integration via APIs for geospatial data
+- HR management module with employee lifecycle workflows
+- Incident management and field planning system
+- Custom fields engine for dynamic form generation
 
-###
+**Stack:** Laravel, PostgreSQL, Redis, Docker, AWS
 
-<br clear="both">
+---
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+### CRM Systems
 
-###
+Built multiple CRM solutions using Laravel and Filament:
+- Healthcare CRM for patient records, appointments, and medical history
+- Real Estate CRM for property listings, sales pipeline, and client management
+- Delivery platform with multi-dashboard system and QR-based ordering
+
+**Stack:** Laravel, Filament, Livewire, MySQL
+
+---
+
+### Mobile APIs
+
+Backend systems for mobile applications:
+- Mini-games platform with 6 games, daily rewards, points and leaderboards
+- Fitness challenge app with walk tracking, challenges, and virtual farm shop
+- E-commerce apps with order management, payments, and push notifications
+- Multiple other mobile backends
+
+**Stack:** Laravel, REST APIs, MySQL, Redis, Push Notifications, Firebase
+
+---
+
+### Client Projects
+
+| Project | Description |
+|---------|-------------|
+| Amlak | Real estate marketplace |
+| Volgato | Car accessories e-commerce |
+| O2diet | Meal delivery e-commerce |
+| MajaliApp | Family management portal |
+| Seraj Academy | Online learning platform |
+
+---
+
+### Open Source
+
+**Architecture & Patterns**
+- [Payment Management](https://github.com/zeyadrezk/Payment-Management) — Factory and Strategy pattern implementation
+- [Laravel Architecture](https://github.com/zeyadrezk/Laravel-architecture) — Architecture patterns reference
+- [Monolithic Architecture](https://github.com/zeyadrezk/Monolithic-Architecture-laravel) — Laravel monolithic patterns
+
+**DevOps & Infrastructure**
+- [Docker Starter](https://github.com/zeyadrezk/laravel-docker-starter) — PHP 8.4, Nginx, MySQL, Redis starter kit
+- [Sail Starter](https://github.com/zeyadrezk/laravel-sail-starter) — Docker-powered dev environment with commands reference
+- [AWS RDS Template](https://github.com/zeyadrezk/aws-rds-laravel-template) — Laravel AWS RDS configuration
+
+**Features & Integrations**
+- [Meilisearch Scout](https://github.com/zeyadrezk/Meilisearch-scout-laravel) — Full-text search with multilingual support
+- [ChatApp](https://github.com/zeyadrezk/ChatApp-laravel) — Real-time chat using Laravel Reverb
+- [Invoices](https://github.com/zeyadrezk/invoices-laravel) — Invoice management system
+
+## Experience
+
+**Bitech** — Senior Backend Developer (2025–Present)
+**Taqnyoon** — Backend Developer (2024–2025)
+**Athr** — Backend Developer (2024–2025)
+**Active4web** — Backend Developer (2023–2024)
+
+## Education
+
+BSc Computer Science — Mansoura University (2017–2021)
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/zeyadrezk](https://linkedin.com/in/zeyadrezk)
+- Email: Zeyad0rezk@gmail.com
+- WhatsApp: +201096040976
+
+---
+
+*Some projects are under NDA. Descriptions focus on technical contributions without disclosing proprietary details.*
