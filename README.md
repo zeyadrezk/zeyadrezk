@@ -31,13 +31,13 @@ I build scalable SaaS systems, microservices, and backend APIs. 4+ years of expe
 
 ## GitHub Stats
 
-![Profile Summary](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/stats/0-profile-details.svg)
+![Profile Summary](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/profile-summary-card-output/0-profile-details.svg)
 
-![Languages](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/stats/1-repos-per-language.svg)
-![Most Commit Language](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/stats/2-most-commit-language.svg)
+![Languages](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/profile-summary-card-output/1-repos-per-language.svg)
+![Most Commit Language](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/profile-summary-card-output/2-most-commit-language.svg)
 
-![Stats](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/stats/3-stats.svg)
-![Productive Time](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/stats/4-productive-time.svg)
+![Stats](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/profile-summary-card-output/3-stats.svg)
+![Productive Time](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/profile-summary-card-output/4-productive-time.svg)
 
 ![Snake](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/stats/snake.svg)
 

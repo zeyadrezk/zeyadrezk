@@ -4,44 +4,39 @@ on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
 
-      # Generate Snake
       - uses: Platane/snk@v3
         with:
           github_user_name: zeyadrezk
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            stats/snake.svg
+            stats/snake-dark.svg?palette=github-dark
 
-      # Generate Profile Summary Cards
+      - name: Push snake
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update snake"
+          file_pattern: "stats/*"
+
+  cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: zeyadrezk
-
-      # Move files to stats folder
-      - name: Move files
-        run: |
-          mkdir -p stats
-          mv dist/* stats/ 2>/dev/null || true
-          cp -r profile-summary-card-output/* stats/ 2>/dev/null || true
-
-      # Commit and push
-      - name: Commit and push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add stats/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update stats" && git push)
+          BRANCH_NAME: main
+          AUTO_PUSH: true
