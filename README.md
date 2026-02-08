@@ -12,13 +12,30 @@ I build scalable SaaS systems, microservices, and backend APIs. 4+ years of expe
 **Frontend:** Filament, Livewire, Tailwind CSS, Alpine.js
 **Patterns:** Multi-Tenant Architecture, Factory, Strategy, Repository, SOLID
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeyadrezk&show_icons=true&theme=default&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=zeyadrezk&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadrezk&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadrezk&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeyadrezk&theme=default&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=zeyadrezk&theme=default&hide_border=true" alt="GitHub Streak" />
 
 ## Work
 
