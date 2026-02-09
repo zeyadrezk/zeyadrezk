@@ -43,9 +43,9 @@ Building scalable SaaS systems, microservices, and backend APIs for +3 years. Sp
 
 ![Profile Summary](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/profile-summary-card-output/default/0-profile-details.svg)
 
-*Some projects are under NDA. Descriptions focus on technical contributions without disclosing proprietary details.*
-
 ## Projects
+
+*Some projects are under NDA. Descriptions focus on technical contributions without disclosing proprietary details.*
 
 ### Enterprise SaaS Platform
 
