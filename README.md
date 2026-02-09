@@ -43,6 +43,8 @@ Building scalable SaaS systems, microservices, and backend APIs for +3 years. Sp
 
 ![Profile Summary](https://raw.githubusercontent.com/zeyadrezk/zeyadrezk/main/profile-summary-card-output/default/0-profile-details.svg)
 
+*Some projects are under NDA. Descriptions focus on technical contributions without disclosing proprietary details.*
+
 ## Projects
 
 ### Enterprise SaaS Platform
@@ -122,5 +124,3 @@ BSc Computer Science — Mansoura University (2017–2021)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+201096040976-green?style=flat&logo=whatsapp)](https://wa.me/201096040976)
 
 ---
-
-*Some projects are under NDA. Descriptions focus on technical contributions without disclosing proprietary details.*
