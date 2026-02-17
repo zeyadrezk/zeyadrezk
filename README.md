@@ -47,60 +47,10 @@ Building scalable SaaS systems, microservices, and backend APIs for +3 years. Sp
 
 *Some projects are under NDA. Descriptions focus on technical contributions without disclosing proprietary details.*
 
-### Enterprise SaaS Platform
+### Company Projects
 
-Multi-tenant ERP system with microservices architecture, serving web dashboards and mobile applications.
-
-- Multi-tenant system with domain-based resolution and isolated databases per tenant
-- RBAC microservice handling permissions across all services via HTTP
-- RESTful APIs for mobile apps (iOS/Android) and web dashboards
-- Queue-based async processing with Laravel
-- GIS integration via APIs for geospatial data
-- Incident management and field planning system
-
-**Stack:** Laravel, PostgreSQL, Redis, Docker, AWS
-
----
-
-### CRM Systems
-
-Built multiple CRM solutions using Laravel and Filament:
-
-- Healthcare CRM for patient records, appointments, and medical history
-- Real Estate CRM for property listings, sales pipeline, and client management
-- Delivery platform with multi-dashboard system and QR-based ordering
-
-**Stack:** Laravel, Filament, Livewire, MySQL
-
----
-
-### Mobile APIs
-
-Backend systems for mobile applications:
-
-- **Amlak** — Real estate marketplace APIs
-- **Quick-Pass** — SaaS security platform for compounds
-- **ATO Academy** — E-learning platform APIs
-- **ZoneGame** — Mini-games platform with 6 games, daily rewards, points and leaderboards
-- **Clans-Game** — Clan-based gaming platform
-- **O2diet** — Meal delivery e-commerce
-- **Litora** — Beauty center marketplace
-- **Elbakr** — Air conditioning marketplace
-- **Clinic** — Clinic management system
-- Enterprise ERP system APIs
-- Fitness challenge app with walk tracking, challenges, and virtual farm shop
-- E-commerce apps with order management, payments, and push notifications
-- *...and more mobile backends*
-
-**Stack:** Laravel, REST APIs, MySQL, Redis, Push Notifications, Firebase
-
----
-
-### Client Projects
-
-| Project | Description                                                                                                                                                                                                                                                        | Links |
-|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-| Amlak | Real estate marketplace — **Team Lead & Backend Developer (Ezdhar).** Led the backend team, designed system architecture, built property listing and search APIs, implemented role-based access for agents, owners, and buyers, and integrated map-based property discovery. | [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://amlakmap.com/) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ezdhar.amlak&hl=en) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/amlak-app/id6749163958) |
+| Project | Description | Links |
+|---------|-------------|-------|
 | Quick-Pass | SaaS security platform for compounds — **Backend Developer (Taqnyoon).** Built RESTful APIs and Filament dashboards for gate access management. Tracks Uber drivers and delivery personnel, residents issue QR passes for visitors, and each compound monitors all gates in real-time. | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=quick_pass.tiqniuwn.user&hl=en) [![Google Play](https://img.shields.io/badge/Guard_App-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=co.itplus.qp&hl=en) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/quick-pass/id6747273695?l=ar) |
 | ATO Academy | E-learning platform — **Backend Developer (Athr).** Built RESTful APIs for course management, payment & subscriptions, live classes, quizzes, and certificate generation. | [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://ato-academy.com/) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/altmayouz/id6745446952) |
 | Elbakr | Air conditioning marketplace — **Backend Developer (Athr).** Built mobile APIs and Blade-based website for buying and selling air conditioning units. | [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://albakr-ac.com/ar) |
@@ -108,6 +58,17 @@ Backend systems for mobile applications:
 | O2diet | Meal delivery e-commerce — **Backend Developer (Athr).** | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/o2diet/id6738386956) |
 | ZoneGame | Mini-games platform — **Backend Developer (Athr).** Built APIs for 6 games with daily rewards, points system, and leaderboards. | |
 | Clans-Game | Clan-based gaming platform — **Backend Developer (Athr).** | |
+| Enterprise ERP | Multi-tenant ERP system with microservices, RBAC, GIS integration, and queue-based processing — **Backend Developer.** | |
+
+---
+
+### Client Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| Amlak | Real estate marketplace — **Team Lead & Backend Developer.** Led the backend team, designed system architecture, built property listing and search APIs, implemented role-based access for agents, owners, and buyers, and integrated map-based property discovery. | [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://amlakmap.com/) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ezdhar.amlak&hl=en) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/amlak-app/id6749163958) |
+| CRM Systems | Built multiple CRM solutions — Healthcare CRM, Real Estate CRM, and delivery platform with multi-dashboard system. **Stack:** Laravel, Filament, Livewire, MySQL | |
+| Clinic | Clinic management system with dashboard — **Backend Developer.** | |
 
 ## Open Source
 
