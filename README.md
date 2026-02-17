@@ -88,15 +88,11 @@ Backend systems for mobile applications:
 
 ### Client Projects
 
-| Project | Description |
-|---------|-------------|
-| Amlak | Real estate marketplace — **Team Lead & Backend Developer.** Led the backend team, designed system architecture, built property listing and search APIs, implemented role-based access for agents, owners, and buyers, and integrated map-based property discovery. [Website](https://amlakmap.com/) · [Google Play](https://play.google.com/store/apps/details?id=com.ezdhar.amlak&hl=en) · [App Store](https://apps.apple.com/us/app/amlak-app/id6749163958) |
-| Volgato | Car accessories e-commerce. [App Store](https://apps.apple.com/us/app/volgato/id6474680077) |
-| O2diet | Meal delivery e-commerce. [App Store](https://apps.apple.com/us/app/o2diet/id6738386956) |
-| MajaliApp | Family management portal. [App Store](https://apps.apple.com/us/app/al-majali/id6479989468) |
-| ATO Academy | E-learning platform — **Backend Developer (Athr).** Built RESTful APIs for course management, payment & subscriptions, live classes, quizzes, and certificate generation. [Website](https://ato-academy.com/) · [App Store](https://apps.apple.com/eg/app/altmayouz/id6745446952) |
-| Azhl | Jobs platform — **Backend Developer (Athr).** Built APIs for job listings & search, application tracking, and employer dashboard for posting jobs and managing candidates. [App Store](https://apps.apple.com/eg/app/azhl-kadr-%D8%A7%D8%B2%D9%87%D9%84-%D9%83%D8%A7%D8%AF%D8%B1/id6738306886) |
-| Seraj Academy | Online learning platform |
+| Project | Description                                                                                                                                                                                                                                                        | Links |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| Amlak | Real estate marketplace — **Team Lead & Backend Developer.** Led the backend team, designed system architecture, built property listing and search APIs, implemented role-based access for agents, owners, and buyers, and integrated map-based property discovery. | [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://amlakmap.com/) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ezdhar.amlak&hl=en) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/amlak-app/id6749163958) |
+| O2diet | Meal delivery e-commerce — **Backend Developer (Athr).**                                                                                                                                                                                                           | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/o2diet/id6738386956) |
+| ATO Academy | E-learning platform — **Backend Developer (Athr).** Built RESTful APIs for course management, payment & subscriptions, live classes, quizzes, and certificate generation.                                                                                          | [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://ato-academy.com/) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/altmayouz/id6745446952) |
 
 ## Open Source
 
@@ -113,7 +109,6 @@ Backend systems for mobile applications:
 **Features & Integrations**
 - [Meilisearch Scout](https://github.com/zeyadrezk/Meilisearch-scout-laravel) — Full-text search with multilingual support
 - [ChatApp](https://github.com/zeyadrezk/ChatApp-laravel) — Real-time chat using Laravel Reverb
-- [Invoices](https://github.com/zeyadrezk/invoices-laravel) — Invoice management system
 
 ## Education
 
