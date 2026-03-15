@@ -82,6 +82,9 @@ Building scalable SaaS systems, microservices, and backend APIs for +3 years. Sp
 - [Sail Starter](https://github.com/zeyadrezk/laravel-sail-starter) — Docker-powered dev environment
 - [AWS RDS Template](https://github.com/zeyadrezk/aws-rds-laravel-template) — Laravel AWS RDS configuration
 
+**Packages**
+- [API Response](https://github.com/zeyadrezk/api-response) — Laravel package for standardized API responses with configurable keys and pagination
+
 **Features & Integrations**
 - [Meilisearch Scout](https://github.com/zeyadrezk/Meilisearch-scout-laravel) — Full-text search with multilingual support
 - [ChatApp](https://github.com/zeyadrezk/ChatApp-laravel) — Real-time chat using Laravel Reverb
